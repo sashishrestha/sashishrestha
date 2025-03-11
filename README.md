@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a creative and detail-oriented UI/UX Designer & Frontend Developer passionate about crafting intuitive, engaging, and visually stunning digital experiences. With a strong foundation in user-centered design and modern web technologies, I bridge the gap between aesthetics and functionality to deliver seamless user interfaces.
 
-##🔹 What I Do:
+## 🔹 What I Do:
 - ✨ User-Centered Design – Wireframing, prototyping & usability testing
 - 💡 Frontend Development – Converting designs into interactive web experiences
 - 🎨 Design Systems – Ensuring consistency & scalability across products
